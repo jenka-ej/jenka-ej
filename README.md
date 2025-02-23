@@ -1,10 +1,10 @@
 <h2 align="center">Hi there 👋</h2>
-<h3 align="center">My name is , I'm Evgeny Filippov!</h3>
-<h4 align="center">I'm a Frontend Developer 💻, Weightlifter 🏋️‍♂️, and just a nice person 😏!</h4>
+<h3 align="center">I'm Evgeny Filippov!</h3>
+<h4 align="center">I'm a Frontend Developer 👨‍💻, Weightlifter 🏋️‍♂️, and just a nice person 😏!</h4>
 
 I hold Bachelor's and Master's degrees 👨‍🎓 from the Moscow Aviation Institute ✈️. Currently, I work as a Frontend Developer at SOGAZ. In my repositories, you'll find a few projects I completed during my self-study at Hexlet, and a comprehensive flowchart creation project that can be easily scaled into a more serious solution 🗿.
 
-I enjoy tackling non-standard tasks, diving into new technologies, and creating responsive and versatile frontend SPA applications 🔮.
+I enjoy tackling non-standard tasks 🙋‍♂️, diving into new technologies 🤾‍♂️, and creating responsive and versatile frontend SPA applications 🔮.
 
 <div align="center">
     <p>You can keep in touch with me via:</p>
