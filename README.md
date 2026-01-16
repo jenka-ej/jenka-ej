@@ -2,7 +2,7 @@
 
 Currently building complex internal systems at SOGAZ.
 
-I like non-trivial UI, scalable architecture, and code that doesn’t fall apart after the first refactor.
+I build complex UI systems, refactor legacy code, and care about architecture.
 
 Lifting weights when not lifting code.
 
