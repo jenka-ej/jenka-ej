@@ -1,5 +1,4 @@
-<h2 align="center">Hi there 👋</h2>
-<h3 align="center">Frontend Developer (React, TypeScript)</h3>
+<h3 align="center">Hi 👋, i'm Frontend Developer (React, TypeScript)</h3>
 
 Currently working at SOGAZ on complex internal systems.
 
@@ -13,9 +12,7 @@ Lifting weights when not lifting code.
     <a target="_blank" href="mailto:zhekafilipp@mail.ru"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" height="30px"></a>
 </div>
 
-My Stack 🛠️
-
-Here's a glimpse of the technologies I work with:
+My Stack 🛠️:
 
 <div align="center">
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white" height="25px"></a>
