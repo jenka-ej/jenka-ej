@@ -7,12 +7,12 @@ I like non-trivial UI, scalable architecture, and code that doesn’t fall apart
 Lifting weights when not lifting code.
 
 <div>
-    <p>You can keep in touch with me via:</p>
+    <h3>You can keep in touch with me via:</h3>
     <a target="_blank" href="https://t.me/jenka_ej"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30px"></a>
     <a target="_blank" href="mailto:zhekafilipp@mail.ru"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" height="30px"></a>
 </div>
 
-My Stack 🛠️:
+<h3>My Stack:</h3>
 
 <div>
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white" height="25px"></a>
