@@ -1,4 +1,4 @@
-Frontend Developer (React, TypeScript)  
+<h3>Frontend Developer (React, TypeScript)</h3>
 
 Currently building complex internal systems at SOGAZ.
 
