@@ -1,7 +1,5 @@
 <h3>Frontend Developer (React, TypeScript)</h3>
 
-Currently building complex internal systems at SOGAZ.
-
 I build complex UI systems, refactor legacy code, and care about architecture.
 
 Lifting weights when not lifting code.
